@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\linnea.winqvist\\Documents\\Programmering 2\\APIProjekt\\APIProjekt\\APIProjekt.csproj": {}
+    "C:\\Users\\linnea.winqvist\\Documents\\Programmering 2\\APIProjekt\\APIProjekt\\APIProjekt.csproj": {}
   },
   "projects": {
-    "c:\\Users\\linnea.winqvist\\Documents\\Programmering 2\\APIProjekt\\APIProjekt\\APIProjekt.csproj": {
+    "C:\\Users\\linnea.winqvist\\Documents\\Programmering 2\\APIProjekt\\APIProjekt\\APIProjekt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\linnea.winqvist\\Documents\\Programmering 2\\APIProjekt\\APIProjekt\\APIProjekt.csproj",
+        "projectUniqueName": "C:\\Users\\linnea.winqvist\\Documents\\Programmering 2\\APIProjekt\\APIProjekt\\APIProjekt.csproj",
         "projectName": "APIProjekt",
-        "projectPath": "c:\\Users\\linnea.winqvist\\Documents\\Programmering 2\\APIProjekt\\APIProjekt\\APIProjekt.csproj",
+        "projectPath": "C:\\Users\\linnea.winqvist\\Documents\\Programmering 2\\APIProjekt\\APIProjekt\\APIProjekt.csproj",
         "packagesPath": "C:\\Users\\linnea.winqvist\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\linnea.winqvist\\Documents\\Programmering 2\\APIProjekt\\APIProjekt\\obj\\",
+        "outputPath": "C:\\Users\\linnea.winqvist\\Documents\\Programmering 2\\APIProjekt\\APIProjekt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\linnea.winqvist\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "RestSharp": {
+              "target": "Package",
+              "version": "[108.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

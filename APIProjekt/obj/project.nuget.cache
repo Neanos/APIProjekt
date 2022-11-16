@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "K4mlmYvW84Uux74mtf9ISKDcQeIskF+mgGzbfDyu6E0Y8TQX+xqdbE6cL23Mfszn0NM5IOYvHl/SgeCJtFU9/Q==",
+  "dgSpecHash": "4sbzDUf443XkgH81wrSxSGmV6bFYR75cosd4xz9xwxh2YDGDRhyolooDpzOt2Lj5kp8DV9+EiS0oIZkfEJmQKw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\linnea.winqvist\\Documents\\Programmering 2\\APIProjekt\\APIProjekt\\APIProjekt.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\linnea.winqvist\\Documents\\Programmering 2\\APIProjekt\\APIProjekt\\APIProjekt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\linnea.winqvist\\.nuget\\packages\\restsharp\\108.0.2\\restsharp.108.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

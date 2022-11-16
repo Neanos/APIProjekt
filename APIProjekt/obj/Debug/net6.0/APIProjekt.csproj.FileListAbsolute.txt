@@ -1,0 +1,17 @@
+C:\Users\linnea.winqvist\Documents\Programmering 2\APIProjekt\APIProjekt\bin\Debug\net6.0\APIProjekt.exe
+C:\Users\linnea.winqvist\Documents\Programmering 2\APIProjekt\APIProjekt\bin\Debug\net6.0\APIProjekt.deps.json
+C:\Users\linnea.winqvist\Documents\Programmering 2\APIProjekt\APIProjekt\bin\Debug\net6.0\APIProjekt.runtimeconfig.json
+C:\Users\linnea.winqvist\Documents\Programmering 2\APIProjekt\APIProjekt\bin\Debug\net6.0\APIProjekt.dll
+C:\Users\linnea.winqvist\Documents\Programmering 2\APIProjekt\APIProjekt\bin\Debug\net6.0\APIProjekt.pdb
+C:\Users\linnea.winqvist\Documents\Programmering 2\APIProjekt\APIProjekt\bin\Debug\net6.0\RestSharp.dll
+C:\Users\linnea.winqvist\Documents\Programmering 2\APIProjekt\APIProjekt\obj\Debug\net6.0\APIProjekt.csproj.AssemblyReference.cache
+C:\Users\linnea.winqvist\Documents\Programmering 2\APIProjekt\APIProjekt\obj\Debug\net6.0\APIProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linnea.winqvist\Documents\Programmering 2\APIProjekt\APIProjekt\obj\Debug\net6.0\APIProjekt.AssemblyInfoInputs.cache
+C:\Users\linnea.winqvist\Documents\Programmering 2\APIProjekt\APIProjekt\obj\Debug\net6.0\APIProjekt.AssemblyInfo.cs
+C:\Users\linnea.winqvist\Documents\Programmering 2\APIProjekt\APIProjekt\obj\Debug\net6.0\APIProjekt.csproj.CoreCompileInputs.cache
+C:\Users\linnea.winqvist\Documents\Programmering 2\APIProjekt\APIProjekt\obj\Debug\net6.0\APIProjekt.csproj.CopyComplete
+C:\Users\linnea.winqvist\Documents\Programmering 2\APIProjekt\APIProjekt\obj\Debug\net6.0\APIProjekt.dll
+C:\Users\linnea.winqvist\Documents\Programmering 2\APIProjekt\APIProjekt\obj\Debug\net6.0\refint\APIProjekt.dll
+C:\Users\linnea.winqvist\Documents\Programmering 2\APIProjekt\APIProjekt\obj\Debug\net6.0\APIProjekt.pdb
+C:\Users\linnea.winqvist\Documents\Programmering 2\APIProjekt\APIProjekt\obj\Debug\net6.0\APIProjekt.genruntimeconfig.cache
+C:\Users\linnea.winqvist\Documents\Programmering 2\APIProjekt\APIProjekt\obj\Debug\net6.0\ref\APIProjekt.dll
